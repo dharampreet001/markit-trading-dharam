@@ -1,0 +1,142 @@
+[
+  {
+    "id": "DEFENSE_ENG",
+    "name": "Defense & Capital Goods",
+    "avg_pct": 0.3,
+    "adv": 3,
+    "dec": 3,
+    "count": 6,
+    "is_bullish": true,
+    "top_stocks": [
+      "SOLARINDS",
+      "RVNL",
+      "COCHINSHIP"
+    ]
+  },
+  {
+    "id": "CONSUMER",
+    "name": "FMCG, Retail & Consumption",
+    "avg_pct": 0.24,
+    "adv": 22,
+    "dec": 18,
+    "count": 40,
+    "is_bullish": true,
+    "top_stocks": [
+      "SWIGGY",
+      "PIIND",
+      "PAGEIND"
+    ]
+  },
+  {
+    "id": "METAL",
+    "name": "Metals & Mining",
+    "avg_pct": 0.09,
+    "adv": 3,
+    "dec": 2,
+    "count": 5,
+    "is_bullish": true,
+    "top_stocks": [
+      "VEDL",
+      "JINDALSTEL",
+      "NMDC"
+    ]
+  },
+  {
+    "id": "BANK_FIN",
+    "name": "Banking & Financial Services",
+    "avg_pct": -0.06,
+    "adv": 11,
+    "dec": 17,
+    "count": 28,
+    "is_bullish": false,
+    "top_stocks": [
+      "RBLBANK",
+      "BSE",
+      "MCX"
+    ]
+  },
+  {
+    "id": "PHARMA",
+    "name": "Pharma & Healthcare",
+    "avg_pct": -0.2,
+    "adv": 5,
+    "dec": 7,
+    "count": 12,
+    "is_bullish": false,
+    "top_stocks": [
+      "MANKIND",
+      "LUPIN",
+      "GLENMARK"
+    ]
+  },
+  {
+    "id": "AUTO",
+    "name": "Automobile & Ancillaries",
+    "avg_pct": -0.3,
+    "adv": 3,
+    "dec": 8,
+    "count": 11,
+    "is_bullish": false,
+    "top_stocks": [
+      "BHARATFORG",
+      "SONACOMS",
+      "BOSCHLTD"
+    ]
+  },
+  {
+    "id": "ENERGY",
+    "name": "Oil, Gas & Energy",
+    "avg_pct": -0.44,
+    "adv": 6,
+    "dec": 9,
+    "count": 15,
+    "is_bullish": false,
+    "top_stocks": [
+      "IOC",
+      "HINDPETRO",
+      "NHPC"
+    ]
+  },
+  {
+    "id": "MATERIALS",
+    "name": "Cement, Chemicals & Materials",
+    "avg_pct": -0.56,
+    "adv": 1,
+    "dec": 6,
+    "count": 8,
+    "is_bullish": false,
+    "top_stocks": [
+      "APLAPOLLO",
+      "UPL",
+      "PIDILITIND"
+    ]
+  },
+  {
+    "id": "REALTY_INFRA",
+    "name": "Realty & Infrastructure",
+    "avg_pct": -0.79,
+    "adv": 6,
+    "dec": 14,
+    "count": 20,
+    "is_bullish": false,
+    "top_stocks": [
+      "DLF",
+      "OBEROIRLTY",
+      "PHOENIXLTD"
+    ]
+  },
+  {
+    "id": "IT",
+    "name": "Information Technology",
+    "avg_pct": -1.44,
+    "adv": 2,
+    "dec": 7,
+    "count": 9,
+    "is_bullish": false,
+    "top_stocks": [
+      "OFSS",
+      "NAUKRI",
+      "COFORGE"
+    ]
+  }
+]

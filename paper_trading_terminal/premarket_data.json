@@ -1,0 +1,190 @@
+{
+  "next_session_date": "Monday, 28 September 2026",
+  "timing": "09:15 AM - 03:30 PM IST",
+  "market_status": "Market Closed (Weekend / Scanner Standby)",
+  "indices": [
+    {
+      "name": "NIFTY 50",
+      "ltp": "23,129.10",
+      "change": "+66.00 (+0.29%)",
+      "bias": "Mildly Bullish / Consolidation",
+      "support": "23,050",
+      "resistance": "23,250",
+      "key_takeaway": "Nifty closed above 23,100 hurdle. Bullish above 23,150; watch 23,050 support."
+    },
+    {
+      "name": "BANK NIFTY",
+      "ltp": "55,673.15",
+      "change": "+234.65 (+0.42%)",
+      "bias": "Bullish Outperformance",
+      "support": "55,300",
+      "resistance": "56,000",
+      "key_takeaway": "PSU Banks showing fresh strength. Target 56,000 psychological milestone."
+    }
+  ],
+  "strong_sectors": [
+    "Defense & Capital Goods (+0.30%)",
+    "FMCG & Consumption (+0.24%)",
+    "Metals & Mining (+0.09%)"
+  ],
+  "weak_sectors": [
+    "Information Technology (-1.44%)",
+    "Realty & Infrastructure (-0.79%)",
+    "Cement & Materials (-0.56%)"
+  ],
+  "breakout_candidates": [
+    {
+      "symbol": "IRFC",
+      "name": "Indian Railway Finance",
+      "ltp": 79.95,
+      "clean_pdh": 80.06,
+      "dist_pct": 0.14,
+      "status": "WATCHLIST_BREAKOUT",
+      "sector": "Banking & Financial Services",
+      "lot_size": 3750,
+      "entry_plan": "Wait for 5m candle close > 80.10",
+      "stop_loss": 79.1,
+      "target1": 81.6,
+      "target2": 82.8,
+      "risk_reward": "1:2.2",
+      "reason": "Resting 0.14% below Clean PDH. Heavy accumulation at 79.50 support. Strong candidate for 09:25 AM breakout."
+    },
+    {
+      "symbol": "ADANIPOWER",
+      "name": "Adani Power Ltd",
+      "ltp": 202.75,
+      "clean_pdh": 203.34,
+      "dist_pct": 0.29,
+      "status": "WATCHLIST_BREAKOUT",
+      "sector": "Oil, Gas & Energy",
+      "lot_size": 1750,
+      "entry_plan": "Breakout above 203.50 with volume spike",
+      "stop_loss": 200.8,
+      "target1": 207.5,
+      "target2": 211.0,
+      "risk_reward": "1:2.8",
+      "reason": "Consolidating 0.29% below Clean PDH. Energy sector recovery expected; 200 is solid base."
+    },
+    {
+      "symbol": "INOXWIND",
+      "name": "Inox Wind Ltd",
+      "ltp": 74.75,
+      "clean_pdh": 75.06,
+      "dist_pct": 0.41,
+      "status": "WATCHLIST_BREAKOUT",
+      "sector": "Defense & Capital Goods",
+      "lot_size": 4000,
+      "entry_plan": "5m close above 75.10 followed by green candle",
+      "stop_loss": 73.8,
+      "target1": 77.0,
+      "target2": 78.5,
+      "risk_reward": "1:2.6",
+      "reason": "Defense & Capital Goods is #1 Bullish sector (+0.30%). Just 0.41% away from Clean PDH breakout."
+    },
+    {
+      "symbol": "BANKINDIA",
+      "name": "Bank of India",
+      "ltp": 137.94,
+      "clean_pdh": 138.61,
+      "dist_pct": 0.49,
+      "status": "WATCHLIST_BREAKOUT",
+      "sector": "Banking & Financial Services",
+      "lot_size": 3500,
+      "entry_plan": "Breakout above 138.80 with sustained 5m close",
+      "stop_loss": 136.5,
+      "target1": 142.0,
+      "target2": 144.5,
+      "risk_reward": "1:2.5",
+      "reason": "High relative volume in PSU Banks. Sits right at doorstep of PDH."
+    },
+    {
+      "symbol": "PETRONET",
+      "name": "Petronet LNG Ltd",
+      "ltp": 286.5,
+      "clean_pdh": 288.1,
+      "dist_pct": 0.56,
+      "status": "WATCHLIST_BREAKOUT",
+      "sector": "Oil, Gas & Energy",
+      "lot_size": 2000,
+      "entry_plan": "Entry at 288.40 on first 5m retest confirmation",
+      "stop_loss": 284.0,
+      "target1": 294.5,
+      "target2": 299.0,
+      "risk_reward": "1:2.4",
+      "reason": "Rounded bottom pattern forming on 15m chart right under Clean PDH."
+    }
+  ],
+  "pullback_candidates": [
+    {
+      "symbol": "IREDA",
+      "name": "Indian Renewable Energy Dev.",
+      "ltp": 113.22,
+      "clean_pdh": 110.6,
+      "retest_level": 111.0,
+      "status": "PULLBACK_RETEST",
+      "sector": "Banking & Financial Services",
+      "lot_size": 2500,
+      "entry_plan": "Enter on dip towards 111.00 - 111.50 with reversal candle",
+      "stop_loss": 109.8,
+      "target1": 116.5,
+      "target2": 120.0,
+      "risk_reward": "1:3.1",
+      "reason": "Broke Clean PDH (110.60) Friday with +3.0% gain. Prime Pullback Retest opportunity above 111."
+    },
+    {
+      "symbol": "UNIONBANK",
+      "name": "Union Bank of India",
+      "ltp": 180.2,
+      "clean_pdh": 179.7,
+      "retest_level": 179.8,
+      "status": "PULLBACK_RETEST",
+      "sector": "Banking & Financial Services",
+      "lot_size": 3000,
+      "entry_plan": "Enter at 180.00 on clean bounce off 179.70 PDH line",
+      "stop_loss": 178.6,
+      "target1": 183.5,
+      "target2": 186.0,
+      "risk_reward": "1:2.5",
+      "reason": "Clean 5m retest candle at 11:05 AM Friday. Finished trading above PDH."
+    },
+    {
+      "symbol": "MOTHERSON",
+      "name": "Samvardhana Motherson",
+      "ltp": 165.71,
+      "clean_pdh": 164.8,
+      "retest_level": 165.0,
+      "status": "PULLBACK_RETEST",
+      "sector": "Automobile & Ancillaries",
+      "lot_size": 3000,
+      "entry_plan": "Long entry at 165.20 with SL at 163.90",
+      "stop_loss": 163.9,
+      "target1": 168.5,
+      "target2": 171.0,
+      "risk_reward": "1:2.6",
+      "reason": "Closed precisely 0.55% above Clean PDH. Bullish morning structure."
+    },
+    {
+      "symbol": "ZYDUSLIFE",
+      "name": "Zydus Lifesciences",
+      "ltp": 1193.8,
+      "clean_pdh": 1190.6,
+      "retest_level": 1191.0,
+      "status": "PULLBACK_RETEST",
+      "sector": "Pharma & Healthcare",
+      "lot_size": 450,
+      "entry_plan": "Dip to 1191 - 1193 retest zone",
+      "stop_loss": 1182.0,
+      "target1": 1220.0,
+      "target2": 1245.0,
+      "risk_reward": "1:2.6",
+      "reason": "Active Stage 3 confirmation Friday. Defensive pharma hedge in case of index consolidation."
+    }
+  ],
+  "trading_rules": [
+    "1. Avoid Freak Wicks (09:15 - 09:20 AM): Never enter on the opening spike. Wait for the 9:20 AM candle to establish Clean PDH levels.",
+    "2. Wait for 5-Min Candle Close: Breakout must be confirmed with a solid candle body close above Clean PDH, not just a wick piercing.",
+    "3. 3-Stage Confirmation: Breakout (Stage 1) -> Pullback Retest (Stage 2) -> Green Reversal Entry (Stage 3).",
+    "4. Risk Management: Always fix Stop Loss immediately. Maintain at least 1:2 Risk-to-Reward ratio.",
+    "5. Sector Alignment: Long entries work with 80%+ higher success rate when the stock's sector index is Bullish."
+  ]
+}
